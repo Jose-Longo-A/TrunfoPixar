@@ -9,7 +9,7 @@
 ### 2024-01
 
 ## Integrantes
-- [José Longo](https://github.com/Apolo1401)
+- [José Longo](https://github.com/Jose-Longo-A)
 - [Eduardo D'Ávila](https://github.com/eduardogd09)
 - [Pedro Maricate](https://github.com/PedroMaricate)
 - [Martim Ponzio](https://github.com/martimponzio)
